@@ -1,1 +1,1 @@
-Represented classes show some functions from windows.h library
+Examples of funtions from windows.h library
